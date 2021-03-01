@@ -1,0 +1,29 @@
+.nav {
+  font-family: NotoSans;
+  width: 100%;
+  background: #000;
+  padding: 20px;
+  text-align: center;
+}
+
+.search {
+  border: 1px solid #999999;
+  background: #555;
+  color: #ccc;
+  font-size: 1.5em;
+  height: 40px;
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: clac(100vw - 50px);
+}
+
+.button {
+  color: #ccc;
+  font-size: 1.5em;
+
+  border-radius: 4px;
+  margin-left: 20px;
+  text-decoration: none;
+  padding: 6px;
+}
